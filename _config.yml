@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /Getting-started-with-Jekyll
+exclude: ['README.md']
